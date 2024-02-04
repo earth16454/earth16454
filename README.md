@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Software Developer
 ------------------
 
-Call me "Earth" I'm 22 years old. I graduated in computer science from Naresuan University. Please feel free to contact with me.
+Call me "Earth" I'm 23 years old. I graduated in computer science from Naresuan University. Please feel free to contact with me.
 
 * 🌍  I'm based in Chiang Mai.
 * ✉️  You can contact me at [thanaphong16454@gmail.com](mailto:thanaphong16454@gmail.com)
