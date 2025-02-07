@@ -7,8 +7,8 @@ Software Developer
 Call me "Earth" I'm 24 years old. I graduated in computer science from Naresuan University. Please feel free to contact with me.
 
 * 🌍  I'm based in Chiang Mai.
-* ✉️  You can contact me at [thanaphong16454@gmail.com](mailto:thanaphong16454@gmail.com)
-* 🧠  I'm learning React, Node.js and Laravel.
+* ✉️  You can contact me at [thanaphong16454@gmail.com](mailto:thanaphong16454@gmail.com) or [9sepofficial@gmail.com](mailto:9sepofficial@gmail.com)
+* 🧠  I'm learning Backend.
 * ⚡  I am hungry to learn new things.
 
 ### Skills
